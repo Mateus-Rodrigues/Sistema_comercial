@@ -2,8 +2,8 @@ object frmPrincipal: TfrmPrincipal
   Left = 0
   Top = 0
   Caption = 'Sistema Comercial 2.0'
-  ClientHeight = 440
-  ClientWidth = 620
+  ClientHeight = 441
+  ClientWidth = 624
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -18,7 +18,7 @@ object frmPrincipal: TfrmPrincipal
   object ToolBar1: TToolBar
     Left = 0
     Top = 0
-    Width = 620
+    Width = 624
     Height = 29
     ButtonHeight = 30
     ButtonWidth = 31
@@ -27,6 +27,9 @@ object frmPrincipal: TfrmPrincipal
     ParentShowHint = False
     ShowHint = True
     TabOrder = 0
+    ExplicitLeft = 240
+    ExplicitTop = 80
+    ExplicitWidth = 150
     object ToolButton1: TToolButton
       Left = 0
       Top = 0
@@ -64,8 +67,8 @@ object frmPrincipal: TfrmPrincipal
   end
   object stbInfo: TStatusBar
     Left = 0
-    Top = 421
-    Width = 620
+    Top = 422
+    Width = 624
     Height = 19
     Panels = <
       item
@@ -77,6 +80,9 @@ object frmPrincipal: TfrmPrincipal
       item
         Width = 50
       end>
+    ExplicitLeft = 320
+    ExplicitTop = 240
+    ExplicitWidth = 0
   end
   object atlAbreForm: TActionList
     Left = 24
