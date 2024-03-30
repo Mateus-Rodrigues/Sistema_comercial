@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/03/30 01:08:35.058,=C:\Users\MateusRodrigues\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/30 01:09:20.555,C:\Users\MateusRodrigues\Documents\Embarcadero\Studio\Projects\Sistema_comercial\Unit_principal.pas=C:\Users\MateusRodrigues\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/30 01:09:20.555,C:\Users\MateusRodrigues\Documents\Embarcadero\Studio\Projects\Sistema_comercial\Unit_principal.dfm=C:\Users\MateusRodrigues\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/03/30 01:09:36.978,C:\Users\MateusRodrigues\Documents\Embarcadero\Studio\Projects\Sistema_comercial\SISTEMA_COMERCIAL.dproj=C:\Users\MateusRodrigues\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/03/30 04:26:31.800,=C:\Users\MateusRodrigues\Documents\Embarcadero\Studio\Projects\Sistema_comercial\Unit1.pas</Transaction>
+    <Transaction>2024/03/30 04:26:59.571,=C:\Users\MateusRodrigues\Documents\Embarcadero\Studio\Projects\Sistema_comercial\Unit1.pas</Transaction>
+    <Transaction>2024/03/30 04:27:57.193,C:\Users\MateusRodrigues\Documents\Embarcadero\Studio\Projects\Sistema_comercial\UDM.dfm=C:\Users\MateusRodrigues\Documents\Embarcadero\Studio\Projects\Sistema_comercial\Unit1.dfm</Transaction>
+    <Transaction>2024/03/30 04:27:57.193,C:\Users\MateusRodrigues\Documents\Embarcadero\Studio\Projects\Sistema_comercial\UDM.pas=C:\Users\MateusRodrigues\Documents\Embarcadero\Studio\Projects\Sistema_comercial\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
